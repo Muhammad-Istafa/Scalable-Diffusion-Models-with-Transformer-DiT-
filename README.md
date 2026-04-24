@@ -5,6 +5,7 @@ This repository demonstrates image generation using a Diffusion Transformer (DiT
 ## Repository Contents
 
 - `run_DiT.ipynb`: Main notebook with model loading, sampling, and diffusion visualization.
+- `outputs/`: Sample generated images and a diffusion output video.
 
 ## How to Run
 
@@ -16,10 +17,24 @@ This repository demonstrates image generation using a Diffusion Transformer (DiT
    - Visualize denoising/diffusion steps
    - Produce video frames/animation inside the notebook
 
-## Outputs
+## Output Images
 
-- Output images and videos are generated dynamically when you run the notebook.
-- Media files are not stored in this repository by default.
+### Output 1
+![Output 1](outputs/output_1.png)
+
+### Output 2
+![Output 2](outputs/output_2.jpg)
+
+### Output 3
+![Output 3](outputs/output_3.png)
+
+## Output Video
+
+- [Download / Open generated video](outputs/output_video_1.mp4)
+
+<video src="outputs/output_video_1.mp4" controls width="720">
+  Your browser does not support the video tag.
+</video>
 
 ## Notebook Compatibility Fix
 
