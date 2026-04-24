@@ -23,7 +23,7 @@ This repository demonstrates image generation using a Diffusion Transformer (DiT
 ![Output 1](outputs/output_1.png)
 
 ### Output 2
-![Output 2](outputs/output_2.jpg)
+<img width="2190" height="594" alt="download (5)" src="https://github.com/user-attachments/assets/e356ea92-45b4-4d3e-88ff-690305b969c7" />
 
 ### Output 3
 ![Output 3](outputs/output_3.png)
